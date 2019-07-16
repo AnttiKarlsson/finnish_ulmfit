@@ -1,0 +1,1 @@
+{"dataset_path": "data/wiki/fi-100", "base_lm_path": null, "backwards": false, "bidir": false, "qrnn": false, "max_vocab": 60000, "tokenizer": "f", "pretrained_model": null, "emb_sz": 400, "nh": 1150, "nl": 3, "clip": 0.12, "bptt": 70, "rnn_alpha": 2, "rnn_beta": 1}
