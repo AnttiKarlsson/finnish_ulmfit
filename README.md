@@ -19,3 +19,4 @@ Auria Clinical informatics: https://www.auria.fi/tietopalvelu/en/index.php?lang=
 </pre>
 
 ![Auria Biobank](/images/Logo_AURIA_2013_ENG.jpg)
+![Auria Biobank](/images/auria-tietopalvelu-matala.png)
