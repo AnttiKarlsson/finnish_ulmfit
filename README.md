@@ -15,5 +15,5 @@ Auria biobank: https://www.auria.fi/en/index.php?lang=en
 
 Auria Clinical informatics: https://www.auria.fi/tietopalvelu/en/index.php?lang=en
 
-<img src="/images/Logo_AURIA_2013_ENG.jpg" width="425"/> <img src="/images/auria-tietopalvelu-matala.png" width="425"/> 
+<img src="/images/Logo_AURIA_2013_ENG.jpg" width="325"/> <img src="/images/auria-clinical-informatics-flat.png" width="425"/> 
 
