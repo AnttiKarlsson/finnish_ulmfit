@@ -9,6 +9,8 @@ The classification example is done with fastai version 1.0.54 and torch version 
 
 Training the model has been made possible by the work at Auria Biobank , located in the Turku University hospital and jointly owned by the hospital district of southwest Finland, hospital districts of Satakunta and Vaasa and the University of Turku.
 
+If you find the model useful, please give us a reference! We have used the model to train a classifier for smoking sentence classification to maine smoking data from the hospital electronic health records. We had a few thousand sentences of labeled data (yes, no, ex-smoker) and were able to reach 96% three class accuracy.
+
 Check out the websites: 
 
 Auria biobank: https://www.auria.fi/en/index.php?lang=en
