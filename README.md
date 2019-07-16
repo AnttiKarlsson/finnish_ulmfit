@@ -1,9 +1,9 @@
 # finnish_ulmfit
-Pretrained ulmfit for Finnish and a classification example.
+Pretrained ulmfit for Finnish (wikipedia) and a classification example.
 
 This repository contains a pretrained UlmFit (https://arxiv.org/abs/1801.06146) model + an example notebook for using the model to create a classifier on text data (the data is in Finnish). The validation perplexity (calculated by exponentiating the validation cross entropy loss) was about 23.8. 
 
-The model training was done using a single Tesla V100 GPU using the scripts from https://github.com/n-waves/ulmfit-multilingual . The training parameters were the defaults from the scripts with the modification of using a batch size of 200 and 10 epochs. Note that the large model files are stored using the git large file storage, so you need to set it up to download them. Check out https://git-lfs.github.com/
+The model training was done using a single Tesla V100 GPU in the computing environment provided by Auria Clinical infromatics. The training was done using the scripts from https://github.com/n-waves/ulmfit-multilingual with modifications to preprocess and fit on Finnish wikipedia. The training parameters were the defaults from the scripts with the modification of using a batch size of 200 and 10 epochs. Note that the large model files are stored using the git large file storage, so you need to set it up to download them. Check out https://git-lfs.github.com/
 
 The classification example is done with fastai version 1.0.54 and torch version 1.1.0. 
 
