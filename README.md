@@ -10,7 +10,8 @@ Check out the websites:
 Auria biobank: https://www.auria.fi/en/index.php?lang=en
 
 Auria Clinical informatics: https://www.auria.fi/tietopalvelu/en/index.php?lang=en
-
+\n
+\n
 
 
 
