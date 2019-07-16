@@ -6,6 +6,7 @@ This repository contains a pretrained UlmFit model + an example notebook for usi
 Training the model has been made possible by the work at Auria Biobank , located in the Turku University hospital and jointly owned by the hospital district of southwest Finland, hospital districts of Satakunta and Vaasa and the University of Turku.
 
 Check out the websites: 
+
 Auria biobank: https://www.auria.fi/en/index.php?lang=en
 
 Auria Clinical informatics: https://www.auria.fi/tietopalvelu/en/index.php?lang=en
