@@ -1,4 +1,6 @@
 # finnish_ulmfit
+ATTENTION: Due to git lfs limits, the model files are hosted at: https://drive.google.com/open?id=18cb8gyCR3Fu6Sh4gnsCtdPnTlnexF0eL 
+
 Pretrained ulmfit for Finnish (wikipedia) and a classification example.
 
 This repository contains a pretrained UlmFit (https://arxiv.org/abs/1801.06146) model + an example notebook for using the model to create a classifier on text data (the data is in Finnish). The validation perplexity (calculated by exponentiating the validation cross entropy loss) was about 23.8. 
